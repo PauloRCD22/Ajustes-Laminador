@@ -78,13 +78,3 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 * **Paulo RCD** - *Trabalho Inicial* - [PauloRCD22](https://github.com/PauloRCD22)
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Agradeça a todos que contribuíram com o projeto 🫂.
-
-
